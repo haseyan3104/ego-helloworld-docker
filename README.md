@@ -1,5 +1,5 @@
 # ego-helloworld-docker
-docker image of ego-helloworld
+unofficial docker image of ego-helloworld
 
 ## how to build
 ex) v1.3.0
